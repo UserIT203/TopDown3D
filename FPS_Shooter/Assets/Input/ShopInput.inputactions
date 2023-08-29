@@ -1,0 +1,34 @@
+{
+    "name": "ShopInput",
+    "maps": [
+        {
+            "name": "Shop",
+            "id": "8d28a68e-5a15-4107-8bae-7a9beadc66f9",
+            "actions": [
+                {
+                    "name": "OpenShop",
+                    "type": "Button",
+                    "id": "fbfcd331-734a-4d11-81b2-7115e87fc8f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "61b292d9-fd73-4365-9d63-ee219f9f121f",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenShop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
